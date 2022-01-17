@@ -1,6 +1,11 @@
 # pentagoGame
 A game of Pentago against an Artificial Intelligence
 
+# Pentago Game Rules
+
+This is a link to the official Pentago Rules to understand how the game is played.
+https://www.ultraboardgames.com/pentago/game-rules.php
+
 # Instructions
 
 After running java file, program will prompt you for a color. This decides who goes first. It will then prompt you for a move. Enter a move
