@@ -1,7 +1,7 @@
-# pentagoGame
+# Pentago
 A game of Pentago against an Artificial Intelligence
 
-# Pentago Game Rules
+# Game Rules
 
 This is a link to the official Pentago Rules to understand how the game is played.
 https://www.ultraboardgames.com/pentago/game-rules.php
